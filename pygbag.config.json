@@ -1,0 +1,16 @@
+{
+    "app_name": "Modern Tetris",
+    "app_version": "1.0.0",
+    "app_description": "A modern implementation of Tetris using Pygame and Pygbag",
+    "author": "Codeium",
+    "license": "MIT",
+    "main_script": "main.py",
+    "build_dir": "build",
+    "cache_dir": "cache",
+    "requirements": [
+        "pygame==2.5.2"
+    ],
+    "compression_level": 9,
+    "serve_host": "localhost",
+    "serve_port": 8000
+}
